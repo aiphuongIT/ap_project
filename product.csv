@@ -1,0 +1,49 @@
+Province,District,Ward,Date,Prod,Amount
+HCM,1,1,3-Dec,TV,4
+HCM,Tan Binh,3,4-Dec,Tu Lanh,4
+HCM,3,1,5-Dec,Laptop,4
+HCM,4,3,6-Dec,PC,4
+HCM,Thu Duc,2,7-Dec,RAM,2
+HCM,6,4,8-Dec,USB,3
+HCM,7,2,9-Dec,TV,1
+HCM,Tan Binh,4,10-Dec,Tu Lanh,4
+HCM,9,1,3-Dec,Laptop,9
+HCM,10,3,4-Dec,PC,8
+HCM,Thu Duc,1,5-Dec,RAM,12
+HCM,Tan Binh,10,6-Dec,USB,34
+HCM,1,2,7-Dec,Tu Lanh,56
+HCM,2,4,8-Dec,Laptop,45
+HCM,Thu Duc,2,9-Dec,PC,23
+HCM,3,4,10-Dec,RAM,12
+Can Tho,Ninh Kieu,4,3-Dec,USB,3
+Can Tho,Ninh Kieu,2,4-Dec,TV,34
+Can Tho,Ninh Kieu,13,5-Dec,Tu Lanh,13
+Can Tho,Ninh Kieu,1,6-Dec,Laptop,12
+Can Tho,Ninh Kieu,3,7-Dec,PC,7
+Can Tho,Cai Rang,1,8-Dec,RAM,78
+Can Tho,Cai Rang,3,9-Dec,USB,45
+Can Tho,Cai Rang,2,10-Dec,USB,34
+Can Tho,Cai Rang,8,3-Dec,USB,12
+Can Tho,Cai Rang,4,4-Dec,TV,23
+Da Nang,Hai Chau,Hai Chau 1,5-Dec,Tu Lanh,100
+Da Nang,Hai Chau,Hai Chau 2,6-Dec,Laptop,23
+Da Nang,Hai Chau,Hai Chau 1,7-Dec,PC,3
+Da Nang,Hai Chau,Hai Chau 2,8-Dec,RAM,34
+Da Nang,Hai Chau,Hai Chau 1,9-Dec,USB,6
+Da Nang,Cam Le,Hoa An,10-Dec,USB,4
+Da Nang,Cam Le,Hoa An,3-Dec,TV,1
+Da Nang,Cam Le,Hoa Phat,4-Dec,Tu Lanh,23
+Da Nang,Cam Le,Hoa An,5-Dec,Laptop,4
+Da Nang,Cam Le,Hoa Xuan,6-Dec,PC,3
+Ha Noi,Ba Dinh,Kim Ma,7-Dec,RAM,5
+Ha Noi,Ba Dinh,Giang Vo,8-Dec,USB,2
+Ha Noi,Ba Dinh,Kim Ma,9-Dec,USB,3
+Ha Noi,Ba Dinh,Giang Vo,10-Dec,TV,1
+Ha Noi,Hoan Kiem,Hang Bac,3-Dec,Tu Lanh,2
+Ha Noi,Hoan Kiem,Hang Ma,4-Dec,Laptop,3
+Ha Noi,Hoan Kiem,Hang Gai,5-Dec,PC,1
+Ha Noi,Hoan Kiem,Hang Bac,6-Dec,RAM,2
+Ha Noi,Bac Tu Liem,Co Nhue 1,7-Dec,USB,3
+Ha Noi,Bac Tu Liem,Co Nhue 2,8-Dec,RAM,1
+Ha Noi,Bac Tu Liem,Co Nhue 2,9-Dec,USB,4
+Ha Noi,Bac Tu Liem,Co Nhue 1,10-Dec,TV,9
